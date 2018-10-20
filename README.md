@@ -22,7 +22,7 @@ Open your browser and type: localhost:8080/
 
 ### Accessing the embedded database
 
-Open your browser and type: localhost:8080/console
+Open your browser and type: localhost:8080/acoadb
 
 - Saved Settings: Generic H2 (Embedded)
 - Settings Name: Generic H2 (Embedded)
